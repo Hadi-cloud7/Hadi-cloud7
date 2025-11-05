@@ -34,9 +34,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, explo
 
 ### 📊 GitHub Stats
 
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi-cloud7\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi-cloud7\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hadi-cloud7\&theme=tokyonight)
+![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi-cloud7\&show_icons=true\&theme=tokyonight))
 
 ---
 
