@@ -42,7 +42,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, explo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadi%20Hameed-blue?logo=linkedin)](https://www.linkedin.com/in/hadihameed)
 [![Gmail](https://img.shields.io/badge/Email-hadihameed2005%40gmail.com-red?logo=gmail)](mailto:hadihameed2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Hadi--cloud7-black?logo=github)](https://github.com/Hadi-cloud7)
+[![GitHub](https://img.shields.io/badge/GitHub-Hadi--cloud7-green?logo=github)](https://github.com/Hadi-cloud7)
 
 ---
 
