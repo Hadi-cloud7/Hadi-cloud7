@@ -35,9 +35,9 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadi%20Hameed-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Email-hadihameed@gmail.com-red?logo=gmail)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-HadiHameed-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadi%20Hameed-blue?logo=linkedin)](www.linkedin.com/in/hadihameed)
+[![Gmail](https://img.shields.io/badge/Email-hadihameed2005@gmail.com-red?logo=gmail)](mailto:hadihameed2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HadiHameed-black?logo=github)](https://github.com/Hadi-cloud7)
 
 ---
 
