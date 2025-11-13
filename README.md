@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hadi Hameed
 
-🚀 **AI & ML Enthusiast | Data Science Learner | Python Developer**
+🚀 **AI & ML Enthusiast | Python Developer | Data Science Learner**
 
 Welcome to my GitHub! I’m passionate about building intelligent systems, exploring datasets, and solving real-world problems through data-driven approaches.
 
